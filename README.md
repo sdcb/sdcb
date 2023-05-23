@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sdcb)](https://github.com/ryo-ma/github-profile-trophy)
 
-![MVP_Logo_Horizontal_Preferred_Cyan300_CMYK_72ppi](https://github.com/sdcb/sdcb/assets/1317141/e883a146-3a3f-4794-9f88-20cac9ddb14f)
+![MVP_Logo_Horizontal_Preferred_Cyan300_CMYK](https://github.com/sdcb/sdcb/assets/1317141/c6e5d828-08d4-404e-bef2-b80073428bfc)
