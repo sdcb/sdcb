@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 ![sdcb's github stats](https://github-readme-stats.vercel.app/api?username=sdcb&count_private=true&show_icons=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sdcb)](https://github.com/ryo-ma/github-profile-trophy)
+![MVP_Logo_Horizontal_Preferred_Cyan300_CMYK_300ppi](https://github.com/sdcb/sdcb/assets/1317141/4e4d24c7-0d29-4aac-8546-d7c47b3b3032)
